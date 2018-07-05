@@ -22,4 +22,9 @@ public class Hello {
    		return min; 
 	}
 	
+    public void testMthd(String msg) {
+        int n = 5;
+        System.out.println(n);
+    }
+
 }
